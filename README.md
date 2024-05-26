@@ -10,7 +10,7 @@
 
 <div>
 
- 🔭 I’m currently finish working on **a GTCL Project**
+ 🔭 I’m currently done with **a GTCL Project => Project & Task Management**
  
  🔭 I’m currently done with **a Brodissimo Project**
  
