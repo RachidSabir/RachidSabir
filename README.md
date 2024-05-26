@@ -9,8 +9,10 @@
 <br/>
 
 <div>
+
+ 🔭 I’m currently finish working on **a GTCL Project**
  
- 🔭 I’m currently working on **a Brodissimo Project**
+ 🔭 I’m currently done with **a Brodissimo Project**
  
  🌱 I’m currently learning **Ruby on Rails**
 
@@ -35,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git,rails" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,mongodb,c,java,mysql,postgresql" /><br>
 </div>
 
 <br/>
