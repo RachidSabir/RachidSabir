@@ -4,19 +4,21 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rachid+Sabir!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Morocco MA</h3>
+<h3 align="center">A passionate software Engineer from Morocco MA</h3>
 
 <br/>
 
 <div>
 
+ 🌱 I’m currently learning **JAVA & Cloud**
+ 
+ 🔭 I’m currently working on **a Deep Learning Project => TLSM : Traducteur du Langage de Signe Marocain**
+ 
  🔭 I’m currently done with **a GTCL Project => Project & Task Management**
  
  🔭 I’m currently done with **a Brodissimo Project**
- 
- 🌱 I’m currently learning **Ruby on Rails**
 
-💬 Ask me about **Ruby, Rails, HTML, CSS, Java, Javascript... or anything [here](https://github.com/issues)** ⚡ 
+💬 Ask me about **HTML, CSS, Java, AI, Javascript, Python, C, C++, or anything [here](https://github.com/issues)** ⚡ 
 
  </div>
  
