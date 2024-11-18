@@ -10,7 +10,7 @@
 
 <div>
 
- 🌱 I’m currently learning **JAVA & Cloud**
+ 🌱 I’m currently learning **JAVA, Spring & Cloud**
  
  🔭 I’m currently working on **a Deep Learning Project => TLSM : Traducteur du Langage de Signe Marocain**
  
