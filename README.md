@@ -20,7 +20,7 @@
  
  🔭 I’m currently done with **a Brodissimo Project**
 
-💬 Ask me about **HTML, CSS, Java, AI, Typescript, Python, C, C++, or anything [here](https://github.com/issues)** ⚡ 
+💬 Ask me about **HTML, CSS, Angular, Typescript, Python, C, C++, Java, Deep Learning, Machine Learning, Power BI, or anything [here](https://github.com/issues)** ⚡ 
 
  </div>
  
