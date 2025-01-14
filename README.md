@@ -10,15 +10,17 @@
 
 <div>
 
- 🌱 I’m currently learning **JAVA, Spring & Cloud**
+ 🔭 I’m currently working on **a Spring Boot Project**
+
+ 🌱 I’m currently learning **Spring Boot**
  
- 🔭 I’m currently working on **a Deep Learning Project => TLSM : Traducteur du Langage de Signe Marocain**
+ 🔭 I’m currently done with **a Deep Learning Project => TLSM : Traducteur du Langage de Signe Marocain**
  
  🔭 I’m currently done with **a GTCL Project => Project & Task Management**
  
  🔭 I’m currently done with **a Brodissimo Project**
 
-💬 Ask me about **HTML, CSS, Java, AI, Javascript, Python, C, C++, or anything [here](https://github.com/issues)** ⚡ 
+💬 Ask me about **HTML, CSS, Java, AI, Typescript, Python, C, C++, or anything [here](https://github.com/issues)** ⚡ 
 
  </div>
  
@@ -42,7 +44,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git,rails" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,mongodb,c,java,mysql,postgresql" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,spring boot,mongodb,c,java,mysql,postgresql" /><br>
 </div>
 
 <br/>
