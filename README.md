@@ -10,7 +10,7 @@
 
 <div>
 
- 🔭 I’m currently working on **a Spring Boot Project**
+ 🔭 I’m currently working on **a React Project**
 
  🌱 I’m currently learning **Spring Boot**
  
